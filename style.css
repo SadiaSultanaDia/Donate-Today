@@ -46,3 +46,28 @@ margin: 0;
         color: gray;
     font-size: 20px;
     }
+    .amount-box{
+        display: flex;
+       
+    }
+    .amount{
+        font-size: 15px;
+        font-weight: 700;
+        border: 2px solid;
+        margin-left: 150px;
+        padding: 40px 20px;
+        background-color: rgb(238, 233, 225);
+        color: rgb(88, 84, 84);
+        border: rgb(194, 168, 177);
+    }
+    .colord-amount-bg-clr{
+        font-size: 15px;
+        font-weight: 700;
+        border: 2px solid  rgb(231, 130, 96);
+        color:rgb(238, 64, 5);
+        background-color:rgb(199, 199, 235) ;
+        margin-left: 150px;
+        padding: 40px 20px;
+        
+        border-radius: 2px;
+    }
