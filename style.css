@@ -70,3 +70,8 @@ margin: 0;
         padding: 40px 20px;
         border-radius: 2px;
     }
+    .other-amount{
+        text-align: center;
+        margin-top: 50px;
+        color: gray;
+    }
