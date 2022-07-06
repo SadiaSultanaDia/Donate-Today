@@ -94,4 +94,17 @@ margin: 0;
         text-decoration: none;
         color: white;
     }
-  
+  .text-section{
+    text-align: center;
+    letter-spacing: 1px;
+  }
+  .card-1{
+    width: 300px;
+    height: 400px;
+    border: 1px solid rgba(12, 241, 241, 0.404);
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 100px;
+    background-color: rgba(12, 241, 241, 0.404);
+  }
