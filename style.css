@@ -155,3 +155,14 @@ margin: 0;
     color: white;
     font-weight: 700;
   }
+  .container-description-two{
+    width: 50%;
+    padding-left: 5%;
+  }
+  .container-description-two img{
+    width: 100%;
+  }
+  .flood-container-two{
+    display: flex;
+    margin: 100px;
+}
