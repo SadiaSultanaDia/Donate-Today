@@ -108,3 +108,14 @@ margin: 0;
     margin-left: 100px;
     background-color: rgba(12, 241, 241, 0.404);
   }
+  .card-2{
+    width: 300px;
+    height: 350px;
+    border: 1px solid rgba(12, 241, 241, 0.404);
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 100px;
+    background-color: rgba(216, 112, 147, 0.644);
+
+  }
