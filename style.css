@@ -213,4 +213,19 @@ margin: 0;
     background-color: tomato;
     padding: 12px 5px;
 }
-
+footer{
+    background: black;
+    margin-top: 0;
+    margin-bottom: 0px;
+    height: 350px;
+}
+#footer-title{
+    text-align: center;
+    color: olivedrab;
+    font-size: 40px;
+    padding-top: 40px;
+}
+#ftr-cpyright{
+    text-align: center;
+    color: aqua;
+}
