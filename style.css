@@ -80,4 +80,18 @@ margin: 0;
         margin-left: 500px;
         margin-right: 500px;
     }
+    .donate-btn{
+        padding: 10px;
+        background-image: linear-gradient(orange,tomato);
+        border-radius: 20px;
+        font-size: 20px;
+        font-weight: 700;
+        margin-top: 10px;
+        margin-left: 600px;
+        border: 0;
+    }
+    .link-btn2{
+        text-decoration: none;
+        color: white;
+    }
   
