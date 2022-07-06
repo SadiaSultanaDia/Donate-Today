@@ -177,3 +177,7 @@ margin: 0;
     display: flex;
     margin: 100px;
 }
+.txt-new{
+    text-align: center;
+    color: gray;
+}
