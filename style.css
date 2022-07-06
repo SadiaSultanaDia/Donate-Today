@@ -166,3 +166,15 @@ margin: 0;
     display: flex;
     margin: 100px;
 }
+.help-description{
+    width: 30%;
+    padding-left: 10%;
+    padding-right: 5%;
+}
+.help-container img{
+    width: 50%;
+}
+.help-humanity{
+    display: flex;
+    margin: 100px;
+}
