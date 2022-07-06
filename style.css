@@ -129,6 +129,6 @@ margin: 0;
     background-color: #e2e283;  
   }
   .cards{
-    margin-right: 80px;
     display: flex;
+    margin-right: 80px;
   }
